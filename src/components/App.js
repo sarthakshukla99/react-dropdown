@@ -10,7 +10,7 @@ export default class App extends Component {
       selected:"Not Selected",
 
       // items array
-      items:["Yes","Probably Not","I will think", "maybe"]
+      items:["Yes","Probably Not","I will think ", "maybe"]
     } 
   }
 
